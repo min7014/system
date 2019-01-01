@@ -1,2 +1,2 @@
 
-[00010 시작](./00010_시작.md)
+[tensorflow 설치](./tensorflow설치.md)
